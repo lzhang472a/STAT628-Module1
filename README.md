@@ -1,9 +1,10 @@
 ﻿# STAT628 Module1 BodyFatCalculator File Navigator 
 
 ----------
->Author: Shuyi Qu,  　　　　squ26@wisc.edu
-　　　　Guoli Liu,  　　　　gliu66@wisc.edu
-　　　　Linhai Zhang, 　  　lzhang472@wisc.edu
+>Author: 
+Shuyi Qu,  　　　　squ26@wisc.edu
+Guoli Liu,  　　　　gliu66@wisc.edu
+Linhai Zhang, 　  　lzhang472@wisc.edu
 
 ----------
 ## Files
