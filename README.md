@@ -2,9 +2,9 @@
 
 ----------
 >Author: 
-Shuyi Qu,  　　　　squ26@wisc.edu
-Guoli Liu,  　　　　gliu66@wisc.edu
-Linhai Zhang, 　  　lzhang472@wisc.edu
+Shuyi Qu,  　　　　squ26@wisc.edu<br />
+Guoli Liu,  　　　　gliu66@wisc.edu<br />
+Linhai Zhang, 　  　lzhang472@wisc.edu<br />
 
 ----------
 ## Files
